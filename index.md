@@ -7,11 +7,11 @@ Finance student with strong detailed experience...
 
 <!-- You can link to other websites, PDFs in this repo, and other pages in this repo -->
 
-_**[Natural language processing 10-Ks to identify risks](midterm_summary)**_
+_**[Natural language processing 10-Ks to identify risks](report/report.md)**_
 
-You can show off your midterm analysis by moving the report components and output into this file. Or...
+In this repo, I ciphered through dictionaries with positive and negative sentiments as well as created my three own variables to measure the sentiment of S&P 500 firm 10-K's. Using these sentiment variables, I went through the data to find out the correlation between sentiment analysis and stock returns. I conducted a cross-sectional study to find out if positive or negative sentiments within 10-K filings have an effect on returns. With a wide variety of industries within the data sample, it was interesting to see to what extent the sentiment of each companies' 10-K correlated with the cumulative returns of each stock. I wanted to see the true importance of the sentiment of 10-K filings and whether they had a real impact on returns.
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="report/output_20_0.png?raw=true"/>
 
 ---
 
