@@ -44,11 +44,5 @@ _**[Some personal project](/pdf/sample_presentation.pdf)**_
 - To pursue a career in venture capital in the fintech space and help identify and invest in promising startups
 
 ---
-
-## Hobbies
-
-Maybe include a little about these, especially if they are the kinds of things that work well in interviews.
-
----
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
