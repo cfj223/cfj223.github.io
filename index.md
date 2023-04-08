@@ -37,9 +37,9 @@ _**[Some personal project](/pdf/sample_presentation.pdf)**_
 
 ## Career Objectives
 
-Write what you want. 
-
-Sell yourself!
+- To gain experience in the field of business intelligence and eventually become a business intelligence analyst.
+- To work in the fintech industry and develop innovative financial products and services that will disrupt traditional banking.
+- To gain experience in software engineering and specialize in developing cutting-edge financial technologies that improve the speed and efficiency of financial transactions.
 
 ---
 
