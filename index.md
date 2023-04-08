@@ -39,7 +39,9 @@ _**[Some personal project](/pdf/sample_presentation.pdf)**_
 
 - To gain experience in the field of business intelligence and eventually become a business intelligence analyst.
 - To work in the fintech industry and develop innovative financial products and services that will disrupt traditional banking.
-- To gain experience in software engineering and specialize in developing cutting-edge financial technologies that improve the speed and efficiency of financial transactions.
+- To build my expertise in software engineering and specialize in developing cutting-edge financial technologies that improve the speed and efficiency of financial transactions.
+- To become a data scientist in a fintech company, and use my analytical skills to develop and improve financial models and algorithms that drive decision-making for the business.
+- To pursue a career in venture capital in the fintech space and help identify and invest in promising startups
 
 ---
 
