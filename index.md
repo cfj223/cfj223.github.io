@@ -1,5 +1,6 @@
 ## About Me
 My name is Christyan Jean-Charles, and I am currently a senior at Lehigh studying finance pursuing a minor in business information systems. My education has equipped me with a strong understanding of financial markets, accounting principles, and investment strategies, as well as valuable skills in data management and information technology. Through my internships and extracurricular activities, I have gained practical experience and am eager to contribute to the success of a company after graduation.
+
 ---
 
 ## Portfolio
