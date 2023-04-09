@@ -15,9 +15,9 @@ In this repo, I ciphered through dictionaries with positive and negative sentime
 
 ---
 
-_**[Regression Practice](Regression_practice)**_
+_**[Regression Practice](report/regression/regression.md)**_
 
-Or: The process that created this page can be used to show off your whole midterm analysis file, as is.
+In analyzing the sales prices of homes from 2006-2008, the data set considered a range of variables, such as year sold, overall quality, and neighborhood. Regression analysis was then used to explore how these variables were correlated with the sales prices of homes. By fitting a model to the data, we were able to estimate the strength and direction of these relationships and gain insights into the factors that influenced home sales prices during this time period.
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
@@ -25,7 +25,7 @@ Or: The process that created this page can be used to show off your whole midter
 
 _**[Eventual team project](https://donbowen.github.io/teamproject/)**_
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="report/regression/output_7_0.png?raw=true"/>
 
 ---
 
