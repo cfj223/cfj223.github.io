@@ -23,18 +23,6 @@ In analyzing the sales prices of homes from 2006-2008, the data set considered a
 
 ---
 
-_**[Eventual team project](https://donbowen.github.io/teamproject/)**_
-
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-
-_**[Some personal project](/pdf/sample_presentation.pdf)**_
-
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-
 ## Career Objectives
 
 - To gain experience in the field of business intelligence and eventually become a business intelligence analyst.
