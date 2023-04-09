@@ -19,13 +19,13 @@ _**[Regression Practice](report/regression/regression.md)**_
 
 In analyzing the sales prices of homes from 2006-2008, the data set considered a range of variables, such as year sold, overall quality, and neighborhood. Regression analysis was then used to explore how these variables were correlated with the sales prices of homes. By fitting a model to the data, we were able to estimate the strength and direction of these relationships and gain insights into the factors that influenced home sales prices during this time period.
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="report/regression/output_7_0.png?raw=true"/>
 
 ---
 
 _**[Eventual team project](https://donbowen.github.io/teamproject/)**_
 
-<img src="report/regression/output_7_0.png?raw=true"/>
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
