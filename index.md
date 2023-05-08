@@ -23,6 +23,18 @@ In analyzing the sales prices of homes from 2006-2008, the data set considered a
 
 ---
 
+_**[Final Project](report/regression_analysis.md)**_
+
+This project explores whether we can use past data on industry trends and leading indicators to predict future employment and economic trends. Specifically, do job losses in the construction industry drive recessions. As students about to enter the job field, we believe that it is important for us to follow industry trends and economic conditions, being able to identify leading factors that lead to recession can give us insight into how we can prepare for different economic conditions.
+
+Here's a link to our project website to see more: <a href="[https://github.com/evanca/quick-portfolio](https://tgrif49.github.io/Predicting-Unemployment/#introduction)">Final Project</a></p>
+
+
+<img src="report/output_15_0.png?raw=true"/>
+
+---
+
+
 ## Career Objectives
 
 - To gain experience in the field of business intelligence and eventually become a business intelligence analyst.
